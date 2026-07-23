@@ -5,4 +5,4 @@
  - [1.2.2](1.2.2-app-debug.apk)
  - [1.2.3](1.2.3-app-debug.apk)
  - [1.2.4](1.2.4-app-debug.apk)
- - [1.2.5](1.2.5-app-debug.apk)
+ - [1.2.5](1.2.5-apk-debug.apk)
